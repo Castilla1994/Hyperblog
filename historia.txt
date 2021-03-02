@@ -1,2 +1,4 @@
-esta es la historia
-de una futuro data.s
+Hola soy juan
+tengo 26 años
+estuey estudiando 
+para ser un DataScience
